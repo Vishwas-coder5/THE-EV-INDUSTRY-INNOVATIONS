@@ -25,11 +25,11 @@ Fueling the transition towards intelligent transportation, this EV project synth
 
 📊 Dashboard Modules
 
-**The Electric Frontier**(Electric Mobility Outlook) — Key performance indicators, manufacturer comparisons, pricing distribution, and market composition.
+- **The Electric Frontier** (Electric Mobility Outlook) — Key performance indicators, manufacturer comparisons, pricing distribution, and market composition.
 
-**Range Beyond Limits**(EV Technology & Performance Pulse) — Comparative analysis of battery capacity, driving range, acceleration, top speed, and other vehicle specifications.
+- **Range Beyond Limits** (EV Technology & Performance Pulse) — Comparative analysis of battery capacity, driving range, acceleration, top speed, and other vehicle specifications.
 
-**Beyond the Test Drive**(EV Customer Experience & Ownership) — Interactive brand-level exploration with model-specific comparisons across pricing, performance, and available customer ratings.
+- **Beyond the Test Drive** (EV Customer Experience & Ownership) — Interactive brand-level exploration with model-specific comparisons across pricing, performance, and available customer ratings.
 
 🔍 Key Analytical Areas
 
